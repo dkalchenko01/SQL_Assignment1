@@ -5,4 +5,4 @@ This repository contains three sql files:
 - 'insert_data.sql'
 - 'queries.sql'
 # Explanations
-All steps are described in corresponding comments in each file
+All steps are described in corresponding comments in each file.
